@@ -1,0 +1,6 @@
+c:\users\reape\documents\visual studio 2015\Projects\TriangleReader\TriangleReader\bin\Debug\TriangleReader.exe.config
+c:\users\reape\documents\visual studio 2015\Projects\TriangleReader\TriangleReader\obj\Debug\TriangleReader.csprojResolveAssemblyReference.cache
+c:\users\reape\documents\visual studio 2015\Projects\TriangleReader\TriangleReader\bin\Debug\TriangleReader.exe
+c:\users\reape\documents\visual studio 2015\Projects\TriangleReader\TriangleReader\bin\Debug\TriangleReader.pdb
+c:\users\reape\documents\visual studio 2015\Projects\TriangleReader\TriangleReader\obj\Debug\TriangleReader.exe
+c:\users\reape\documents\visual studio 2015\Projects\TriangleReader\TriangleReader\obj\Debug\TriangleReader.pdb
